@@ -27,3 +27,14 @@ def financial_statements():
 
             financial_summary = "generate_financial_summary(financial_statements, statement_type)"
             st.write(f'Summary for ticker:\n financial_summary\n')
+
+def main():
+    st.sidebar.title('AI Financial Analyst')
+    app_mode = st.sidebar.selectbox("Choose your AI assistant:",
+        ["Financial Statements"])
+    if app_mode == 'Financial Statements':
+        financial_statements()
+
+
+if __name__ == '__main__':
+    main()           
