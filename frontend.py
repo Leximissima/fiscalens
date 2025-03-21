@@ -5,21 +5,23 @@ def financial_statements():
     st.title('FiscalLense')
     st.header("Be as smart as a financial analyst \n", divider="gray")
 
-    st.write("Upload your financial statements to get a summary of the financial health of your company.")
+    st.write()
 
     if "chat_history" not in st.session_state:
         st.session_state['chat_history'] = []
 
     with st.form("llm-form"):
         uploaded_files = st.file_uploader(
-            "Choose a CSV file", accept_multiple_files=True
+            "Upload your financial statements to get a summary of the financial health of your company.", 
+            accept_multiple_files=True
         )
         for uploaded_file in uploaded_files:
             bytes_data = uploaded_file.read()
             st.write("filename:", uploaded_file.name)
             st.write(bytes_data)
         
-        submit = st.form_submit_button("Submit")
+        submit = st.form_submit_button("Submit", icon=":material/send:")
+        
    
     # statement_type = st.selectbox("Select financial statement type:", ["Income Statement", "Balance Sheet", "Cash Flow"])
 
