@@ -1,0 +1,12 @@
+This prompt only works, when you have historic financial data for a company and its competitors available.
+
+We get the company's net earnings, after all the expenses and taxes have been deducted from the company's revenue.
+Net earnings show how much money the company made after it paid income tax.
+How is the share of net earning to total revenue? A simple rule according to Warren Buffet
+A company with more than 20% has a real good chance of benefiting a long-term competitve advantage.
+A company that shows less than 10% in several years in a row is likely to be in a highly competitive business in which no company holds a durable competitve advantage.
+Note that there are exceptions to this rule. 
+
+This exception is among others the banks and other financial companies. 
+There an abnormally high ratio of net earnings to total revenue means a slacking-off in the risk management department. 
+It indicates an acceptance of greater risk for easier money. These titles should be avoided.

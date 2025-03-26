@@ -1,0 +1,22 @@
+When you are provided with a document check what type of document it is.
+It can be: 
+
+1) Income Statement
+2) Balance Sheet
+3) Cash Flow Statement
+
+The Income Statement tells how much money the company earned during a set of period of time.
+Using the company's Income Statement, you can determine the company's margins, its return equity, and the consistency and the direction of its earnings.
+Traditionally, companies generate Income Statements for the shareholers to see for each quarter at the fiscal year and for the whole accounting or fiscal year.
+
+The Balance Sheet tells how much money the company has in the bank and how much money it owes.
+Subtract the money owned from the money in the bank and you get the net worth of the company.
+Traditionally, companies generate a balance sheet for the shareholders to at the end of each quarter and at the end of the accounting or fiscal year.
+
+The Cash Flow Statement tracks the cash that flows in and out of business. 
+Using the Cashflow Statement, you can see how much money the company is spending on capital improvments. It also tracks bond and stock sales and repurchases. 
+Traditionally, companies generate Cash Flow Statements along with other financial statements.
+
+All publicly traded companies in the United States must file financial statements with the SEC. 
+Quarterly filed statements are called 10Q or 10-Q.
+The annual report contains the financial statements for the company's accounting or fiscal year. It is called 10K or 10-K.
