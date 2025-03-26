@@ -1,0 +1,20 @@
+
+When you analyze the revenue and profit, please check the following questions:
+1) Does revenue increase or decrease compare to the previous quarter or fiscal year?
+A company must cover all expenses from revenue, e.g. for personnel, purchased goods or services, depreciation and amortization and other items. 
+The level of revenue provides information about the size of the company, its importance, opportunities and potential risks. 
+If revenue is growing strongly, this is an indication of future success because the products are selling well. Falling revenue could be the harbinger of a major crisis.
+
+2) How does revenue relate to receivables and cash and cash equivalents?
+There has to be a reasonable explanation, if receivables and cash and cash equivalents are higher than revenue. 
+Otherwise it is suspicious and needs further investigation.
+
+3) For large companies: On which segments is the Reveneu distributed?
+It has to be pointed out, if there are major concentration on regional segments. 
+A company that produces and sells in the U.S. and in China has risk to loose revenue in case of an economic conflic between these countries.
+
+4) Does gross profit increase or decrease compare to the previous quarter or fiscal year?
+
+5) Consider a scenario where Internally Produced and Capitlazied Assets and Inventory Change does not affect the calculation of the profit. 
+Compare the profit in this scenario with the actual profit.
+

@@ -1,0 +1,13 @@
+Analyze the provided annual report to determine the corporate tax rate of the company. Follow these steps:
+1. Identify the relevant financial positions in the report:
+Total income before tax (also called profit before tax), Income tax expense or Income taxes paid.
+
+2. Calculate the company's effective tax rate using the formula:
+Effective Tax Rate = (Income Taxes paid / Income Before Tax)× 100
+
+3. Lookup the statutory corporate tax rate for the country where the company is listed. 
+Use a reputable source such as government websites, OECD, World Bank, or tax research organizations (e.g., Tax Foundation, KPMG, Deloitte). Provide the publication date and a source link.
+
+4. Compare the company's effective tax rate with the statutory tax rate and explain potential reasons for any differences (e.g., tax deductions, incentives, deferred tax assets/liabilities, or international tax strategies).
+
+Provide the results in a clear and structured format.
