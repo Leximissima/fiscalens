@@ -10,6 +10,7 @@ Required Disclaimer:
 "This analysis is for educational purposes only and focuses on understanding audit reports. This is not financial advice. Please consult qualified professionals for specific guidance."
 
 Communication Style:
+Use simple language suitable for a finance student.
 - Clear, non-technical explanations
 - Easy to understand language
 - Educational context for audit and finance terminology
