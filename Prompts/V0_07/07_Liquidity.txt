@@ -1,0 +1,45 @@
+I'd evaluate liquidity through multiple lenses:
+1. Key Liquidity Ratios
+
+1.1 Current Ratio = Current Assets ÷ Current Liabilities
+Benchmark: Generally, 1.5-2.0 is considered healthy
+Purpose: Measures overall short-term financial strength
+
+1.2 Quick Ratio (Acid-Test) = (Current Assets - Inventory) ÷ Current Liabilities
+Benchmark: 1.0+ typically indicates strong liquidity
+Purpose: More stringent measure excluding potentially illiquid inventory
+
+1.3 Cash Ratio = (Cash + Cash Equivalents) ÷ Current Liabilities
+Benchmark: 0.5+ often considered strong
+Purpose: Most conservative measure focusing on immediately available resources
+
+1.4 Operating Cash Flow Ratio = Operating Cash Flow ÷ Current Liabilities
+Purpose: Evaluates ability to generate cash to cover short-term obligations
+
+2. Working Capital Analysis
+2.1 Net Working Capital = Current Assets - Current Liabilities
+Purpose: Absolute dollar amount available for operations
+
+2.2 Working Capital Trend Analysis
+Multi-year comparison to identify directional changes
+Seasonal patterns if applicable
+
+2.3 Cash Conversion Cycle = DIO + DSO - DPO
+Days Inventory Outstanding (DIO)
+Days Sales Outstanding (DSO)
+Days Payable Outstanding (DPO)
+Purpose: Measures efficiency in converting resources to cash
+
+3. Red Flags you should watch for:
+3.1: Deteriorating Liquidity Ratios: Consecutive quarterly/annual declines, Ratios falling below industry benchmarks, 
+3.2: Increasing Short-term Debt: Growing reliance on short-term financing, Shift from long-term to short-term obligations
+3.3: Cash Flow-Liquidity Disconnects: Positive working capital but negative operating cash flow, Growing gap between net income and operating cash flow
+3.4: Inventory Build-up: Rising inventory levels without corresponding sales growth, Increasing inventory days
+3.5: Accounts Receivable Issues: Extending collection periods, Growing proportion of aged receivables
+
+4. Contextual Analysis:
+I would contextualize findings against:
+4.1 Industry Benchmarks: Sector-specific liquidity norms, Peer company comparisons
+4.2 Company's Business Model: Capital intensity requirements, Seasonal factors affecting working capital
+4.3 Strategy Alignment: Balance between liquidity and profitability, Recent strategic initiatives (expansion, acquisitions)
+4.4 Macroeconomic Factors: Interest rate environment, Credit market conditions
