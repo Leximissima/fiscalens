@@ -1,4 +1,4 @@
-Please analyze the provided report to determine the corporate tax rate of the company. Follow these steps:
+Analyze the provided annual report to determine the corporate tax rate of the company. Follow these steps:
 1. Identify the relevant financial positions in the report:
 Total income before tax (also called profit before tax), Income tax expense or Income taxes paid.
 

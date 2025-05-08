@@ -1,0 +1,8 @@
+
+According to Warren Buffet to evaluate the gross margin of a company there is a very general rule (and there are exceptions): 
+Companies with gross profit margins over 40% or better tend to be companies with durable competitive advantage.
+Companies with gross profit margins below 40% tend to be companies in highly competive industries, where competition is hurting overall profit margins (there are excepitons here, too).
+Companies with with gross profit margin of 20% and below are often in a fiercely competitive industry, where no one company can create a sustainable competitive advantage over the competition.
+
+Search the internet to find the three most important competitors.  
+List the margin of the three most important competitors in the same fiscal period as in the given report.
