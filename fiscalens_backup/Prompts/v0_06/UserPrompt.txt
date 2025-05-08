@@ -1,0 +1,33 @@
+When presented with a financial document, follow this structured analysis approach:
+
+Financial ANALYSIS CHECKLIST:
+
+1. Auditor Identification and Timeline Assessment
+   - Name of the registered public accounting firm
+   - Length of auditor-client relationship
+   - Audit period covered. (Average completion time 25 days, SEC-mandated deadlines, range from 60 to 90 days after the fiscal year-end)
+   - Report completion timeframe (While the average completion time is around 25 days, companies typically work within the SEC-mandated deadlines, which range from 60 to 90 days after the fiscal year-end, depending on the company's classification. It's crucial for companies to manage this process efficiently to meet these deadlines and avoid potential regulatory issues.)
+
+2. Audit Opinion Classification
+   - Unqualified Opinion: Clean, no significant issues
+   - Qualified Opinion: Issues in specific areas
+   - Adverse Opinion: Major disagreements or issues
+   - Disclaimer of Opinion: Unable to form an opinion
+
+3. Key Audit Matters Deep Dive
+For each Key Audit Matter identified:
+   - Reason for highlighting
+   - Financial health impact
+   - Related notes to review
+   - Specific metrics to examine
+
+4. Management Discussion & Analysis
+- Company Success Assessment: Good MD&As explain significant changes in financial results or positions.
+- Expected Development for the Coming Year (How specific or general are these statements?)
+- Financial Projections or Growth Figures
+- Summary Statement of Financial Situation (Is there an easily identifiable summarizing statement of the company’s financial position within the document overall?)
+- Tone and sentiment: optimistic, cautious, or negative. 
+- Level of detail (More detailed explanations often indicate transparency and confidence. Vague or brief discussions may suggest uncertainty or reluctance to disclose information.)
+- Balance of positive and negative aspects (Be wary of overly optimistic language that doesn't acknowledge challenges.)
+- Use of technical language: Heavy use of jargon may indicate an attempt to obscure information. Clear, straightforward language often suggests transparency.
+- Consider what's not said: Omissions of previously discussed topics or risks can be telling.

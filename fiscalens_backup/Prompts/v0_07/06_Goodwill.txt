@@ -1,0 +1,29 @@
+Goodwill is an intangible asset that arises when a company acquires another business for more than the fair value of its net identifiable assets. It appears on the balance sheet as a non-current asset.
+
+Is there a 'Goodwill' line item in the statement?
+Then analyze in detail
+1. History of acquisitions
+List the companies that were acuqired in the last years. Are there any comments from financial experts on the web on that?
+
+2. Size of Goodwill
+High goodwill relative to assets/equity implies a high level of acquisition-based growth. If these acquisitions underperform, the company may face future write-downs.
+Large goodwill balances (especially in the billions) suggest aggressive acquisition strategies. 
+Goodwill as a % of Total Assets: High ratios (>30%) may signal dependence on acquisitions. 
+Goodwill as a % of Equity: A ratio exceeding 100% is a red flag—implies that goodwill exceeds book equity, often a sign of aggressive or expensive acquisitions.
+
+3. Analyze the year-over-year change in goodwill using the consolidated balance sheets and MD&A section:
+Increase in goodwill: Indicates acquisitions; cross-check with the “Business Combinations” footnote to understand deal details.
+No change: Implies no new acquisitions and no impairments.
+Decrease in goodwill: Could reflect impairment charges (see income statement and “Impairment of Goodwill” note). May also relate to divestitures.
+Red flag: Sudden, significant goodwill write-downs may indicate overpayment in prior deals or deteriorating asset performance.
+
+4. Auditor's opinion
+Please check, if there are comments of the Auditor's relating to recoverability of goodwil.
+
+5. Financial health and strategic outlook implications
+Positive Indicators:
+Stable or growing goodwill aligned with revenue and EBITDA growth, Detailed disclosures and conservative valuation assumptions, Impairment tests resulting in no charge due to sufficient cushion in fair value estimates.
+
+Negative Indicators: Frequent or large impairment charges, Rising goodwill with flat or declining operating performance, Acquisitions failing to deliver synergies, Highly subjective valuation assumptions (e.g., unusually high terminal growth rates).
+
+

@@ -1,0 +1,38 @@
+Dividend Payout Analysis Framework
+
+Historical Dividend Trends
+
+Track dividend per share (DPS) over 3-5 years
+Calculate dividend payout ratio (Dividends/Net Income)
+Analyze dividend yield relative to industry averages
+Note any significant changes in dividend policy
+
+
+Liquidity Analysis
+
+Calculate key liquidity ratios:
+
+Current ratio (Current Assets/Current Liabilities)
+Quick ratio ((Current Assets - Inventory)/Current Liabilities)
+Cash ratio (Cash & Equivalents/Current Liabilities)
+
+
+Review operating cash flow to dividend ratio
+Examine free cash flow coverage of dividends
+
+
+Red Flag Indicators
+
+Declining operating cash flows with stable/increasing dividends
+Dividend payout ratio consistently above 100% of earnings
+Rising debt levels alongside dividend increases
+Deteriorating liquidity ratios while maintaining dividends
+Industry underperformance in working capital management
+
+
+Impact on Share Price
+
+Dividend sustainability vs. growth expectations
+Balance sheet strength against industry headwinds
+Potential for dividend cuts and market reaction
+Capital allocation efficiency compared to competitors
