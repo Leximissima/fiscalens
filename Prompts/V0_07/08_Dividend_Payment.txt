@@ -1,38 +1,23 @@
-Dividend Payout Analysis Framework
+Your task is to perform a detailed analysis of the company’s dividend payout strategy and evaluate whether its dividen payout aligns with industry benchmarks. 
+Focus your analysis on:
 
-Historical Dividend Trends
+1. Historical Dividend Trends
 
-Track dividend per share (DPS) over 3-5 years
-Calculate dividend payout ratio (Dividends/Net Income)
-Analyze dividend yield relative to industry averages
+1.1 Track dividend per share (DPS) over 5 years
+Examine trends in dividend growth over 5 years.
+Stable or growing dividends are favorable signals; cuts or erratic payments may raise investor concerns.
+
+1.2 Calculate dividend payout ratio (Dividends/Net Income); 
+Compare the company’s payout ratio to its historical average and industry median.
+High payout (>75%) may be unsustainable if earnings decline.
+Low payout (<20%) may suggest reinvestment focus, but may also disappoint yield-seeking investors.
+
+1.3 Dividend yields (Dividend per share/Share price)
+Analyze dividend yield relative to industry averages and 5-year average. 
+A high yield could indicate undervaluation or potential distress; low yield might reflect growth orientation.
 Note any significant changes in dividend policy
 
-
-Liquidity Analysis
-
-Calculate key liquidity ratios:
-
-Current ratio (Current Assets/Current Liabilities)
-Quick ratio ((Current Assets - Inventory)/Current Liabilities)
-Cash ratio (Cash & Equivalents/Current Liabilities)
-
-
-Review operating cash flow to dividend ratio
-Examine free cash flow coverage of dividends
-
-
-Red Flag Indicators
-
-Declining operating cash flows with stable/increasing dividends
-Dividend payout ratio consistently above 100% of earnings
-Rising debt levels alongside dividend increases
-Deteriorating liquidity ratios while maintaining dividends
-Industry underperformance in working capital management
-
-
-Impact on Share Price
-
-Dividend sustainability vs. growth expectations
-Balance sheet strength against industry headwinds
-Potential for dividend cuts and market reaction
-Capital allocation efficiency compared to competitors
+1.4 Source of Dividend Funding
+Source of Dividend Funding
+Check if dividends are funded from free cash flow, not debt or asset sales.
+Negative free cash flow with ongoing dividends can be a major red flag.
